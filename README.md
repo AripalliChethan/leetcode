@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AripalliChethan/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AripalliChethan/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/AripalliChethan/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AripalliChethan/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AripalliChethan/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AripalliChethan/leetcode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AripalliChethan/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AripalliChethan/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/AripalliChethan/leetcode/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AripalliChethan/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AripalliChethan/leetcode/tree/master/0054-spiral-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/AripalliChethan/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AripalliChethan/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AripalliChethan/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AripalliChethan/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
